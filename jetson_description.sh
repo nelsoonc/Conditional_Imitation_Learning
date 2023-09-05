@@ -1,4 +1,5 @@
 #!/bin/bash
+# Script: acquire basic information from your Jetson device
 # author: nelsoonc
 # Bandung Institute of Technology, Mechanical Engineering 2017
 
