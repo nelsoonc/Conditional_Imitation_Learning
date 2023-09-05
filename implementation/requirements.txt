@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+imgaug
+scikit_learn
+tensorflow==2.5.0
+opencv-python>=4.1.0.25
+
+pyserial
+adafruit-pca9685
+pyrealsense2

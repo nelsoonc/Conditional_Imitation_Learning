@@ -1,0 +1,21 @@
+/*.zip
+/*.txt
+
+learning_code/
+TrafficSign_Detection/
+installTFOD/
+
+# simulation
+simulation/beta_simulator_windows
+simulation/dataset/*
+!simulation/dataset/README.md
+simulation/models/*
+!simulation/models/simulation_model.h5
+
+# implementation
+implementation/models/*
+implementation/dataset/*
+!implementation/dataset/README.md
+implementation/test_data
+implementation/dataset_join.py
+implementation/video_writer.py
