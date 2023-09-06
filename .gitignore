@@ -13,10 +13,12 @@ simulation/models/*
 !simulation/models/simulation_model.h5
 
 # implementation
-implementation/models/*
-!implementation/models
 implementation/dataset/*
 !implementation/dataset/README.md
+implementation/models/plot_history.py
+implementation/models/train_history_left.csv
+implementation/models/train_history_right.csv
+implementation/models/train_history_straight.csv
 implementation/test_data
 implementation/dataset_join.py
 implementation/video_writer.py
